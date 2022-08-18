@@ -1,4 +1,6 @@
-# joshsalcido
+<h1 align='center'>
+  Hola! I'm Josh 😊🇲🇽 
+</h1>  
 
 <a href="https://www.linkedin.com/in/joshua-salcido-57036a215/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
