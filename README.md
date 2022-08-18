@@ -1,7 +1,8 @@
 # joshsalcido
 
+<a href="https://www.linkedin.com/in/joshua-salcido-57036a215/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+</a>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshsalcido&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
