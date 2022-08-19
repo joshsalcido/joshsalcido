@@ -5,9 +5,11 @@
 I am a Full-Stack Engineer based out of Denver Colorado, and my curiosity for web development is at an all-time high! I am continuously learning and working on my craft, checkout some of my most recent projects down below, and connect with me on Linkedin! 
 </p>
 
+<p align='center'>
 <a align='center' href="https://www.linkedin.com/in/joshua-salcido-57036a215/">
 <img align='center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
 
 <p align='center'>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshsalcido&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
